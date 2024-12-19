@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @OluomaIlobah
-- 👀 I’m interested in Data/Business Analysis
-- 🌱 Proficient in SQL & PowerBI for Analysis
-- 💞️ I’m looking to collaborate on various engaging projects
-- 📫 How to reach me: email - oluomaudeh@gmail.com, Linkedln - https://www.linkedin.com/in/oluoma-ilobah-fimc-09632350
+Hi, I'm @OluomaIlobah, a Business Data Analyst, adept in using Excel, SQL and PowerBI to draw insights from data, while helping organization make data-driven decision making.
+You can reach me on: email - oluomaudeh@gmail.com, Linkedln - https://www.linkedin.com/in/oluoma-ilobah-fimc-09632350
   
 
 
